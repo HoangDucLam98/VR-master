@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\H.D.Coder\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\H.D.Coder\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_btl.1438762956.00" t="ExcludeRecursive" />
+    <e p="C:\Users\H.D.Coder\Desktop\VR\btl" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\CarController.cs" t="Include" />
+      <e p="Assets\MainMenuController.cs" t="Include" />
+      <e p="Assets\Marcos Schultz" t="Include">
+        <e p="MS Sposts Car" t="Include">
+          <e p="License.txt" t="Include" />
+          <e p="Others" t="Include">
+            <e p="PromotionalMSVS.cs" t="Include" />
+            <e p="WheelMeshes.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\race-track-lake" t="Include">
+        <e p="readmore.txt" t="Include" />
+        <e p="Standard Assets" t="Include">
+          <e p="Environment" t="Include">
+            <e p="Water (Basic)" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="WaterBasic.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="FXWaterBasic.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Assets\SteeringWheelController.cs" t="Include" />
+      <e p="btl.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
